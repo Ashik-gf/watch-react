@@ -1,0 +1,90 @@
+
+[
+    {
+        "name": "Rolex Submariner",
+        "price": "$10,000",
+        "model": "116610LN",
+        "brand": "Rolex",
+        "water_resistance": "300 meters",
+        "movement": "Automatic",
+        "case_material": "Stainless Steel",
+        "band_material": "Oystersteel",
+        "dial_color": "Black"
+    },
+    {
+        "name": "Omega Speedmaster Professional",
+        "price": "$5,000",
+        "model": "311.30.42.30.01.005",
+        "brand": "Omega",
+        "water_resistance": "50 meters",
+        "movement": "Manual-Winding",
+        "case_material": "Stainless Steel",
+        "band_material": "Stainless Steel",
+        "dial_color": "Black"
+    },
+    {
+        "name": "TAG Heuer Carrera",
+        "price": "$3,500",
+        "model": "CV2010.FC6233",
+        "brand": "TAG Heuer",
+        "water_resistance": "100 meters",
+        "movement": "Automatic",
+        "case_material": "Stainless Steel",
+        "band_material": "Leather",
+        "dial_color": "Black"
+    },
+    {
+        "name": "Seiko SKX007",
+        "price": "$200",
+        "model": "SKX007K2",
+        "brand": "Seiko",
+        "water_resistance": "200 meters",
+        "movement": "Automatic",
+        "case_material": "Stainless Steel",
+        "band_material": "Rubber",
+        "dial_color": "Black"
+    },
+    {
+        "name": "Casio G-Shock DW5600",
+        "price": "$60",
+        "model": "DW5600E-1V",
+        "brand": "Casio",
+        "water_resistance": "200 meters",
+        "movement": "Quartz",
+        "case_material": "Resin",
+        "band_material": "Resin",
+        "dial_color": "Black"
+    },
+    {
+        "name": "Citizen Eco-Drive Promaster",
+        "price": "$250",
+        "model": "BN0151-09L",
+        "brand": "Citizen",
+        "water_resistance": "200 meters",
+        "movement": "Eco-Drive (Solar)",
+        "case_material": "Stainless Steel",
+        "band_material": "Polyurethane",
+        "dial_color": "Blue"
+    },
+    {
+        "name": "Timex Weekender",
+        "price": "$40",
+        "model": "T2N647",
+        "brand": "Timex",
+        "water_resistance": "30 meters",
+        "movement": "Quartz",
+        "case_material": "Brass",
+        "band_material": "Nylon",
+        "dial_color": "White"
+    },
+    {
+        "name": "Tissot T-Touch",
+        "price": "$1,000",
+        "model": "T013.420.47.207.00",
+        "brand": "Tissot",
+        "water_resistance": "100 meters",
+        "movement": "Quartz",
+        "case_material": "Titanium",
+        "band_material": "Titanium",
+        "dial_color": "Black"
+    }]
